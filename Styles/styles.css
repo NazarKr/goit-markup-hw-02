@@ -8,6 +8,7 @@
 body {
     font-family: 'Roboto';
     font-style: normal;
+    
 }
 
 ul {
@@ -28,7 +29,12 @@ a {
     line-height: 1.14;
     letter-spacing: 0.02em;
     color: var(--primari-text-color);
+
 }
+.logo {
+    width: 145px;
+}
+
 
 a:hover,
 a:focus {
@@ -89,6 +95,7 @@ p {
     background-color: #2f303a;
 }
 /*====portfolio====*/
+
 .filter {
     width: 128px;
     height: 38px;
