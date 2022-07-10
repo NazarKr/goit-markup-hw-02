@@ -1,0 +1,13 @@
+/* кольори тексту
+основиний: color
+додатковий  color: black;
+акцентний 
+*/
+
+.logo {
+    color: black;
+}
+
+ul {
+    list-style: none;
+}
